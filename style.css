@@ -1,0 +1,8 @@
+table, th, td {border: 1.5px solid black;}
+h1 {color: red; font-family: arial; font-size: 10 px;}
+h2 {color: green; font-family: courier new; font-size: 6 px;}
+h3 {font-family: geneva; font-size: 4 px}
+img {width: 300px;}
+a {text-decoration: none; color: blue}
+a:hover {text-decoration: underline;}
+p, ul, li, ol {color: grey; font-family: times new roman; font-weight: semi-bold;}
